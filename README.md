@@ -1,4 +1,8 @@
 **Decentralized Medical Records System**
+
+
+
+
 Overview
 This project aims to provide a secure, decentralized platform for maintaining patient records. Patients can authorize specific doctors to access their medical records for examination purposes, ensuring privacy, security, and transparency. The system leverages blockchain technology to create a tamper-proof and efficient solution for healthcare data management.
 
